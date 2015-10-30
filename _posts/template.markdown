@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to My New Data Science Blog using GitHub and Jekyll!"
 date:   2015-10-29 21:04:34 -0700
 categories: jekyll update
 ---

@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Marine Scientist Turned Data Scientist
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+As a scientist and modeler, what I love most about my research is the use of programming to analyze and visualize data in order to deepen my understanding of the processes that drive observed trends. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My passion for data analysis and visualization has guided me toward an interest in leveraging my research, analytical, programming, and communication skills in order to contribute to a team of data scientists striving to find actionable solutions to challenging questions. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I love being a data scientist because that means that I get to learn every day as I continue to add tools to my data analysis toolbox.

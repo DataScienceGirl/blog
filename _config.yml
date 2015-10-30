@@ -11,8 +11,20 @@ email: nicolegoebel@gmail.com
 description: Marine Scientist Turned Data Scientist # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://github.com/DataScienceGirl/" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  
+twitter_username: nicolegoebel
+github_username: DataScienceGirl
+
 
 # Build settings
 markdown: kramdown
+#markdown: redcarpet
+#highlighter: pygments
+permalink: /:title/
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
+    - _posts/template.markdown
